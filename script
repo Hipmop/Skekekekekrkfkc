@@ -20,7 +20,7 @@
 
         // 이미지 로드 부분
         const birdImage = new Image();
-        birdImage.src = '여기에_사진_URL_삽입'; // 예: 'https://example.com/bird.png'
+        birdImage.src = 'https://www.google.com/search?q=%ED%94%8C%EB%A0%88%ED%94%BC+%EB%B2%84%EB%93%9C&tbm=isch&ved=2ahUKEwjC25zSuLuFAxU7evUHHfCWDi0Q2-cCegQIABAK&oq=%ED%94%8C%EB%A0%88%ED%94%BC+%EB%B2%84%EB%93%9C&gs_lp=EhJtb2JpbGUtZ3dzLXdpei1pbWciEO2UjOugiO2UvCDrsoTrk5wyBxAAGIAEGA1IiRhQtgJYzRZwA3gAkAECmAG5AaABlhCqAQQwLjEyuAEDyAEA-AEBqAIFwgIEECMYJ8ICBBAAGAPCAggQABiABBixA8ICBxAjGOoCGCfCAgcQABiABBgYwgIIEAAYgAQYogSIBgE&sclient=mobile-gws-wiz-img&ei=WoMYZsLGDLv01e8P8K266AI&bih=647&biw=360&client=ms-android-samsung-ss&prmd=ivsnmbz#imgrc=rP6bIwtlGIclPM'; // 예: 'https://example.com/bird.png'
 
         const bird = {
             x: 50,
